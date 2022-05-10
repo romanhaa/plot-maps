@@ -9,6 +9,7 @@
 ## Trieste
 
 [![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01)
+[![RLB-01](trieste/rlb-01/map_thumbnail.jpg)](trieste/rlb-01)
 
 ## Nomenclature
 
