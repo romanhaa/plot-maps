@@ -6,6 +6,10 @@
 
 [![RLB-01](braunschweig/rlb-01/map_thumbnail.jpg)](braunschweig/rlb-01)
 
+## Trieste
+
+[![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01)
+
 ## Create thumbnails
 
 ```sh
