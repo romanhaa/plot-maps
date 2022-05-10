@@ -10,6 +10,11 @@
 
 [![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01)
 
+## Nomenclature
+
+- `RDS`: roads
+- `RLB`: roads, landscape, buildings
+
 ## Create thumbnails
 
 ```sh
