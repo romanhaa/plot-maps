@@ -4,12 +4,12 @@
 
 ### Braunschweig
 
-[![RLB-01](braunschweig/rlb-01/map_thumbnail.jpg)](braunschweig/rlb-01)
+[![RLB-01](braunschweig/rlb-01/map_thumbnail.jpg)](braunschweig/rlb-01/README.md)
 
 ## Trieste
 
-[![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01)
-[![RLB-01](trieste/rlb-01/map_thumbnail.jpg)](trieste/rlb-01)
+[![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01/README.md)
+[![RLB-01](trieste/rlb-01/map_thumbnail.jpg)](trieste/rlb-01/README.md)
 
 ## Nomenclature
 
