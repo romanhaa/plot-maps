@@ -32,8 +32,11 @@
 
 ## Nomenclature
 
+- `BLD`: buildings
+- `CMP`: composite
 - `RDS`: roads
 - `RLB`: roads, landscape, buildings
+- `ROL`: roads, landscape
 
 ## Create thumbnails
 
