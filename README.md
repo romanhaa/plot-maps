@@ -2,11 +2,10 @@
 
 ## Maps
 
-### Braunschweig
-
+### Braunschweig (DE)
 [![RLB-01](braunschweig/rlb-01/map_thumbnail.jpg)](braunschweig/rlb-01/README.md)
 
-## Trieste
+## Trieste (IT)
 
 [![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01/README.md)
 [![RLB-01](trieste/rlb-01/map_thumbnail.jpg)](trieste/rlb-01/README.md)
