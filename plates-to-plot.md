@@ -2,7 +2,6 @@
 
 - Amsterdam
 - Barcelona
-- Bederkesa
 - Berlin
 - Colorado
 - Hannover

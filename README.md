@@ -2,6 +2,12 @@
 
 ## Maps
 
+### Bederkesa (DE)
+
+#### RLB
+
+[![RLB-01](bederkesa/rlb-01/map_decorated_thumbnail.jpg)](bederkesa/rlb-01/README.md)
+
 ### Braunschweig (DE)
 
 #### BLD
