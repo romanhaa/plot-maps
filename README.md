@@ -29,6 +29,7 @@
 
 [![RDS-01](trieste/rds-01/map_decorated_thumbnail.jpg)](trieste/rds-01/README.md)
 [![RLB-01](trieste/rlb-01/map_thumbnail.jpg)](trieste/rlb-01/README.md)
+[![RLB-02](trieste/rlb-02/map_thumbnail.jpg)](trieste/rlb-02/README.md)
 
 ## Nomenclature
 
