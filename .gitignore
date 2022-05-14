@@ -4,4 +4,5 @@ bbox.rds
 # high-res images
 *_full.png
 *_full.pdf
+*.afdesign
 *.afphoto
